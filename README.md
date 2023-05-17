@@ -37,6 +37,11 @@
   <a href="https://github.com/gaozhangmin/aliyunpan/stargazers" target="_blank">
     <img alt="Star" src="https://img.shields.io/github/stars/gaozhangmin/aliyunpan?style=social" />
   </a>
+  
+  <a href="https://github.com/gaozhangmin/aliyunpan/releases/latest" target="_blank">
+    <img alt="Star" src="https://img.shields.io/github/downloads/gaozhangmin/aliyunpan/total?style=social" />
+  </a>
+  
 </p>
 
 
